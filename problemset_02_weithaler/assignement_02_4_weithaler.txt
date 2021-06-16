@@ -1,0 +1,21 @@
+Question A)
+Configurations that dies out:
+Conf_1, Conf_3, Conf_4, Conf_5
+
+Question B)
+Configurations that become stable out:
+Conf_6
+
+
+Question C)
+Configurations that become an oscillator out:
+Conf_7
+
+Question D)
+Conf_1: 1 gen
+Conf_2: more than 10
+Conf_3: 2 gen
+Conf_4: 2 gen
+Conf_5: 1 gen
+Conf_6: 1 gen
+Conf_7: 1 gen

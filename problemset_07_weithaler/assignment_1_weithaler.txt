@@ -1,0 +1,15 @@
+Assignment 1
+
+Exercise 1:
+
+It cycles numbers from 0 to 15 included adding only the ones dividable by 3.
+Then those values are pushed into a stack
+
+TOP > [15, 12, 9, 6, 3, 0]
+
+
+Exercise 2:
+
+Same as before but if a value is dividable by 4 it pops the last element.
+
+TOP > [15, 12, 9, 0]

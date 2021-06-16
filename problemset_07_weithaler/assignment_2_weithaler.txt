@@ -1,0 +1,24 @@
+Assignment 2
+
+Exercise 1:
+a) AB*C/
+b) ABC*-DE/+
+c) VWX*YZ+-
+d) AB/C*D-E+
+e) XY-WZ*V/+
+
+
+Exercise 2:
+a) /*ABC
+b) -A+*BC/DE
+c) +*V*WX-YZ
+d) -/A*BC+DE
+e) +-XY/*WZV
+
+
+Exercise 3:
+a) (A+((B-C)*D))
+b) (((A+B)/(C-D))+E)
+c) (A+(B/(C+(D*E))))
+d) (X-((Y+Z)*(A-B)))
+e) (((A+B)-C)+(D*E))
